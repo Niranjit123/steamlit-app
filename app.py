@@ -104,7 +104,7 @@ def get_gemini_response(model, prompt: str, chat_history: List[Dict]) -> str:
 
 def main():
     # Header
-    st.markdown("<h1 class='main-header'>🤖 Gemini Chat Assistant</h1>", unsafe_allow_html=True)
+    st.markdown("<h1 class='main-header'>🤖 Boris Chat Pro Max</h1>", unsafe_allow_html=True)
     
     # Sidebar for API key configuration
     with st.sidebar:
